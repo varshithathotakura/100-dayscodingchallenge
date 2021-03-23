@@ -6,6 +6,6 @@ while temp > 0:
    sum += rem** 3
    temp //= 10
 if num == sum:
-   print(num,"is an Armstrong number")#407
+   print(num,"is an Armstrong number")
 else:
    print(num,"is not an Armstrong number")
