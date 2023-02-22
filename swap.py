@@ -5,5 +5,5 @@ print(b,"b before")
 temp=a
 a=b
 b=temp
-print(a,"a after")
-print(b,"b after")
+print(a,"a after ")
+print(b,"b after ")
